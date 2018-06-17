@@ -1,0 +1,4 @@
+[package]
+name = "rust-fwd"
+version = "0.1.0"
+authors = ["Hiroshi Shimamoto <hshimamoto@users.noreply.github.com>"]
